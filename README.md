@@ -3,7 +3,7 @@
 ## Authentication
 ![](authentication.gif)
 
-## CRUD Operation
+## CRUD Operations
 ![](crud.gif)
 
 ## Share Blog
