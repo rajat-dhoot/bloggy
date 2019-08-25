@@ -1,0 +1,16 @@
+$font-stack: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+   "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+   sans-serif;
+
+/* Colours */
+$light: #f8f9fa;
+$themeColor: #17a2b8;
+$primaryColor: #333;
+$subtitleColor: #555;
+$mediumgrey: #999;
+$lightgrey: #ccc;
+$baseColor: white;
+$cardShadowInitial: 0px 2px 4px 0px $lightgrey;
+$cardShadowHover: 0px 6px 8px 2px $mediumgrey;
+
+$buttonShadow: 0 8px 16px 0 rgba(0, 0, 0, 0.24);

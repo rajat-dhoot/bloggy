@@ -1,0 +1,50 @@
+@import "./variables";
+@import "./mixins";
+
+body {
+   font-family: $font-stack;
+   margin: 0;
+   padding: 0;
+   -webkit-font-smoothing: antialiased;
+   -moz-osx-font-smoothing: grayscale;
+}
+
+a:link {
+   color: $themeColor;
+}
+
+.theme-color {
+   color: $themeColor;
+}
+
+// ################ progress bar ##################
+
+.progressBar {
+   animation: move 2s linear infinite;
+}
+
+@keyframes move {
+   0% {
+      @include transform(translate(-100%, 0));
+   }
+   100% {
+      @include transform(translate(100%, 0));
+   }
+}
+
+// ########## scrollbar styling ###############
+::-webkit-scrollbar {
+   width: 8px;
+}
+/* Track */
+::-webkit-scrollbar-track {
+   background: #f1f1f1;
+}
+/* Handle */
+::-webkit-scrollbar-thumb {
+   background: #888;
+}
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+   background: #555;
+}
