@@ -1,13 +1,6 @@
 # [MERN Blogging Application](https://makemyblog.herokuapp.com)
 
-## Authentication
-![](authentication.gif)
-
-## CRUD Operations
-![](crud.gif)
-
-## Share Blog
-![](share.gif)
+![](blogApplication.gif)
 
 Technologies Used:
 - FrontEnd: [React.js](https://reactjs.org/), [React-Redux](https://react-redux.js.org/), ([Redux?](https://www.youtube.com/watch?v=3sjMRS1gJys)), React Hooks, React-Bootstrap, Redux-thunk, Axios
