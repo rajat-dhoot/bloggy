@@ -39,3 +39,6 @@ npm run dev
 ```
 
 [Install & Configure Redux Devtools](https://github.com/zalmoxisus/redux-devtools-extension)
+
+[Learn & Build a MERN Blog Application in 100 hours](https://medium.com/@rajatdhoot/learn-build-a-mern-stack-application-in-100-hours-part-1-ee56e3f61979)
+
